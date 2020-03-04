@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "469660642567",
+    "firebase_url": "https://cencusapp.firebaseio.com",
+    "project_id": "cencusapp",
+    "storage_bucket": "cencusapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469660642567:android:18880517210007315529a2",
+        "android_client_info": {
+          "package_name": "com.example.cencusapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469660642567-456iokpht82o8nn3r0h7d5drooltr135.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cencusapp",
+            "certificate_hash": "1f64ca0eefa62f241cf69ba32407d08834c56e9a"
+          }
+        },
+        {
+          "client_id": "469660642567-pn21a0ol5ntdk0vhmjjhrko4h23banjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNN1cXwcmXOWN3vEaWykYJgIKuV0ownlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469660642567-pn21a0ol5ntdk0vhmjjhrko4h23banjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
